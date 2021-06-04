@@ -3,5 +3,5 @@
 # Code written for the Coding Exercises of 0: Hello!
 ##
 
-# Bonjour
+# Bonjour: prints "Hello, everyone"
 print("Bonjour, tout le monde!")
