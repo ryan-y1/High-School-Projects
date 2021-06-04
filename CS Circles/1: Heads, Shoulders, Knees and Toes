@@ -1,4 +1,6 @@
-# Written 
+# Created 16 Feb 2021
+# Code fragment for counting the total number of heads, shoulders, knees, and toes of a group
+##
 
 heads = people * 1
 shoulders = people * 2
