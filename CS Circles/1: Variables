@@ -2,7 +2,7 @@
 # Code written for the Coding Exercises of 1: Variables
 ##
 
-# Heads, Shoulders, Knees and Toes: 
+# Heads, Shoulders, Knees and Toes: Code fragment for counting the total number of heads, shoulders, knees, and toes of a group
 heads = people * 1
 shoulders = people * 2
 knees = people * 2
