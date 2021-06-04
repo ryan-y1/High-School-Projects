@@ -3,15 +3,15 @@
 # Code written for the Coding Exercises of 1E: Errors
 ##
 
-# Suummer: prints the sum of all whole numbers from 1 to 10
+# Suummer
 print(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10)
 
-# Hello Joe: prints "Hello" and "Joe" on two lines
+# Hello Joe
 print("Hello")
 username = "Joe" 
 print(username)
 
-# Shopping: calculates and prints the total cost of meat and milk, including tax
+# Shopping
 meatPrice = 4.00
 meatTax = 0.03 * meatPrice
 milkPrice = 2.00
