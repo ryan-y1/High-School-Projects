@@ -1,8 +1,0 @@
-# Created 16 Feb 2021
-# Switches the values between two variables
-##
-
-apple = x
-banana = y
-x = banana
-y = apple
