@@ -1,7 +1,5 @@
 # Created 16 Feb 2021
-
 # Prints "hello, everyone"
-
 ##
 
 print("Bonjour, tout le monde!")
