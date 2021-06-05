@@ -1,2 +1,2 @@
-# CS11
+# High School
 Code that I wrote in high school
