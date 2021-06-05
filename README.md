@@ -1,2 +1,2 @@
 # High School
-Code that I wrote in high school
+Code that I wrote during high school
