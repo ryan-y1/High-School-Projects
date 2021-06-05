@@ -3,7 +3,7 @@
 # Code written for the Coding Exercises of 5: Input
 ##
 
-Echo: prints the input twice on two lines
+# Echo: prints the input twice on two lines
 myInput = input()
 print(myInput)
 print(myInput)
