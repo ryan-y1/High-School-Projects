@@ -14,8 +14,8 @@ print(secondsPerDay * daysPerWeek)
 
 # The Great Escape: prints a string with escape sequences
 # 1st method
-# print("A double-quote\'s escaped using a backslash, e.g. \\\"")
+print("A double-quote\'s escaped using a backslash, e.g. \\\"")
 # 2nd method
-# print('A double-quote\'s escaped using a backslash, e.g. \\"')
+print('A double-quote\'s escaped using a backslash, e.g. \\"')
 # 3rd method
 print("A double-quote" + "'" + "s escaped using a backslash, e.g." + " \\" + '"')
