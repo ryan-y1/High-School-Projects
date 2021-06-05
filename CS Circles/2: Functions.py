@@ -1,5 +1,5 @@
 # Created 16 Feb 2021
-# Last Modified 16 Feb 2021
+# Last modified 16 Feb 2021
 # Code written for the Coding Exercises of 2: Functions
 ##
 
